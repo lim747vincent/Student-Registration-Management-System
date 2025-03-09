@@ -2,7 +2,7 @@
  
 ## Overview
 
-The Student Registration Management System is an object-oriented Java application developed using NetBeans, designed to streamline student enrollment, tutorial group allocation, course management, and teaching assignments. It utilizes Abstract Data Types (ADT) for Lists and Maps to efficiently manage data structures and implements Merge Sort within the List ADT for optimized sorting operations.
+The Student Registration Management System is an object-oriented Java application developed using NetBeans, designed to streamline student enrollment, tutorial group allocation, course management, and teaching assignments. It utilizes Abstract Data Types (ADT) for Lists and Maps to efficiently manage data structures and implements Merge Sort within the List ADT for optimized sorting operations. We build ADT and Sorting algorithm ourselves.
 
 
 ## Features
