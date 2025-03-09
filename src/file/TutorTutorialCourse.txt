@@ -1,0 +1,5 @@
+
+S678;Sum Ting Wong;RSM;G2;BAQS1001;Measurement of Civil Engineering Works;
+S101;Jeremy Lee;RSM;G1;BAQS1001;Measurement of Civil Engineering Works;
+S234;Jason Lim;RDS;G1;MADM0004;Discrete Maths;
+S103;Tan Li Kiat;RDS;G2;MADM0004;Discrete Maths;

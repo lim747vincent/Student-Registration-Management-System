@@ -1,0 +1,7 @@
+S101;Jeremy Lee;BSc;Senior Lecturer;FOCS;
+S102;Timmy Choong;Phd;Associate Professor;FAFB;
+S103;Tan Li Kiat;Msc;Lecturer;FSSH;
+S212;John Lee;BSc;Lecturer;FOCS;
+S234;Jason Lim;Phd;Associate Professor;FAFB;
+S335;Marcus Ng;Msc;Lecturer;FSSH;
+S678;Sum Ting Wong;Msc;Senior Lecturer;FSSH;

@@ -1,0 +1,16 @@
+RSW;Software Engineering;Master's Degree;
+RDS;Data Science;Master's Degree;
+RIS;Interactive Software;Bachelor's Degree;
+RIT;Information Technology;Bachelor's Degree;
+RES;Engineering Science;Master's Degree;
+RSM;Science;Master's Degree;
+RMM;Management;Master's Degree;
+RBA;Bussiness Administration;Master's Degree;
+RAB;Accounting;Bachelor's Degree;
+RBF;Banking & Finance;Bachelor's Degree;
+RCM;Creative Multimedia;Bachelor's Degree;
+RFD;Fashion Design;Bachelor's Degree;
+RGD;Graphic Design;Bachelor's Degree;
+RCT;Information Security;Bachelor's Degree;
+RQS;Quantity Surveying;Bachelor's Degree;
+RIN;Nutrition;Bachelor's Degree;

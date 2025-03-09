@@ -1,0 +1,20 @@
+S101;Jeremy Lee;BAQS1000;Measurement of Substructure Works;L;
+S101;Jeremy Lee;BACS1005;Introduction to Web Design;T;
+S102;Timmy Choong;MACA1000;Calculas I;L;
+S234;Jason Lim;BACS1111;Advance CyberSecurity;P;
+S335;Marcus Ng;BABS1001;Introduction in Accounting;L;
+S101;Jeremy Lee;MADM0004;Discrete Maths;T;
+S678;Sum Ting Wong;BAQS1001;Measurement of Civil Engineering Works;L;
+S212;John Lee;BACS1004;Database Management;P;
+S101;Jeremy Lee;BACS1001;Software Engineering;T;
+S678;Sum Ting Wong;BAPS1000;Introduction to Psychology;P;
+S678;Sum Ting Wong;BAPS1003;Research Method in Psychology;T;
+S103;Tan Li Kiat;MADM0004;Discrete Maths;T;
+S234;Jason Lim;MADM0004;Discrete Maths;T;
+S335;Marcus Ng;BACS1111;Advance CyberSecurity;T;
+S101;Jeremy Lee;BBBB1111;Introduction to Animations Work;L;
+S101;Jeremy Lee;ABBE1033;Economics;L;
+S102;Timmy Choong;ABBE1033;Economics;T;
+S678;Sum Ting Wong;BIAT1112;Graphic Design Project Management;L;
+S678;Sum Ting Wong;BACS1002;Artificial Intelligence;L
+S101;Jeremy Lee;BAQS1001;Measurement of Civil Engineering Works;P;
